@@ -1,6 +1,8 @@
-## Ace Johnstons Portfolio👋
+## Ace Johnston's Portfolio👋
 
-I am a freelance game developer who has worked on quite a few projects, Ranging from 3D Modeling, LUA Scripting, Substance Designing, Graphic Design and Video editing
+I am a freelance game developer who has worked on quite a few projects, Ranging from 3D Modeling, LUA Scripting, Substance Designing, Graphic Design and Video editing.
+
+Here is links to all the projects i have worked on
 
 
 
